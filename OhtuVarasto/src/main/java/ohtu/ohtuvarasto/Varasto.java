@@ -1,5 +1,6 @@
 package ohtu.ohtuvarasto;
 
+//Turha kommentti.
 public class Varasto 
 {
     // --- piilotettu tietorakenteen toteutus: ---
